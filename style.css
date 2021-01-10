@@ -1,0 +1,14 @@
+body{
+    background-color: lightblue;
+}
+
+p{
+    font-size: 2rem;
+    font-weight: bold;
+    color: red;
+}
+
+ul li{
+    background-color: lightyellow;
+    text-transform: uppercase;
+}
